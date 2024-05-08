@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">전기차 충전소</string>
+    <string name="data_url">http://openapi.kepco.co.kr/service/EvInfoServiceV2/getEvSearchList?serviceKey=SDiGjdLhU%2BBbqlIZ1vsjj5OvP34aVPstBjzeb7JAUXacokueUUSmZQPKHDpRSiRl6yDGmhNzhaHgNoJLjT5t9A%3D%3D&amp;pageNo=1&amp;numOfRows=3500&amp;addr=</string>
+</resources>
